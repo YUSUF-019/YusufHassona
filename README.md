@@ -6,24 +6,24 @@
 
 ---
 
-### 👋 أهلاً، أنا يوسف حسونة!
-#### 🛠️ مهندس ميكاترونكس | طالب في كلية الهندسة - جامعة المنوفية (2024 - 2028)  
-#### 🎯 بمعدل تراكمي: 3.9 | أطمح لتغيير العالم من خلال الابتكار والإبداع الهندسي
+### 👋 Yusuf Hassona
+#### 🛠️ Mechatronics Engineer | Engineering Student  
+#### 🎯 Aspiring to change the world through innovation and engineering creativity
 
 </div>
 
 ---
 
-### 🧠 مهاراتي التقنية:
+### 🧠 Tech Skills:
 
-- **لغات البرمجة:** C / C++ / Python / Arduino / MATLAB
-- **برمجيات التصميم:** SolidWorks / AutoCAD
-- **أنظمة تحكم:** PLC / ميكروكنترولرز
-- **أخرى:** Git / Linux / Markdown
+- **Programming Languages:** C / C++ / Python / Arduino / MATLAB  
+- **CAD & Design Software:** SolidWorks / AutoCAD  
+- **Control Systems:** PLC / Microcontrollers  
+- **Others:** Git / Linux / Markdown
 
 ---
 
-### 🔧 الأدوات اللي بشتغل بيها:
+### 🔧 Tech Tools:
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
@@ -38,37 +38,51 @@
 
 ---
 
-### 📂 المشاريع المميزة:
+### 📂 Special Projects:
 
-- 🤖 **ذراع روبوتية ذكية** — تصميم وتحكم باستخدام Arduino.
-- 💧 **نظام دمج وتفريغ سوائل** — باستخدام PLC للتحكم الدقيق في العمليات.
-- ⚙️ مشاريع جامعية تطبيقية في الميكاترونكس تجمع بين الميكانيكا، الإلكترونيات، والبرمجة.
-
----
-
-### 📌 أنشطة ومشاركات:
-
-- 🏆 مشاركة في مسابقة **ISEF** للأبحاث العلمية.
-- 🤖 مشاركات في مسابقات الروبوتات على مستوى محافظة المنوفية.
-- 🗣️ مهارات تواصل، قيادة، وعمل جماعي قوية.
+- 🤖 **Smart Robotic Arm** — Designed and controlled using Arduino  
+- 💧 **Liquid Mixing & Discharge System** — Controlled via PLC for precise automation  
+- ⚙️ Practical university projects combining mechanics, electronics, and coding
 
 ---
 
-### 📬 تواصل معي:
+### 🧩 Activities:
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:youssef.hassouna.official@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-link-here/)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/yourtelegram)
+- 🏆 Participant in **ISEF** Science and Engineering Fair  
+- 🤖 Multiple participations in robotics competitions in Menoufia  
+- 🗣️ Strong communication, leadership, and teamwork skills
+
+---
+
+### 📊 GitHub Stats:
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YUSUF-019&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <br>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YUSUF-019&show_icons=true&theme=radical" alt="Yusuf's GitHub Stats" />
+  <br>
+  <img src="https://streak-stats.demolab.com?user=YUSUF-019&theme=radical&hide_border=false" alt="GitHub Streak" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YUSUF-019&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+### 📬 Contact Me:
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:youssef.hassouna.official@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yusuf-hassona-697992321)  
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/YUSUFHASSONA)
 
 ---
 
 <div align="center">
 
-> 🧠 "الهندسة ليست مجرد مهنة، بل أسلوب تفكير، وتصميم، وخلق لمستقبل أفضل"
+> 🧠 "Engineering is not just a profession, it's a mindset – designing and building a better future."
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Wrench.png" width="10%"/>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Robot.png" width="10%"/>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Electric%20Light%20Bulb.png" width="10%"/>
 
 </div>
-
